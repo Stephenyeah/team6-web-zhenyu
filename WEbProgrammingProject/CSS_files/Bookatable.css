@@ -1,0 +1,52 @@
+body {
+    background-image: url(../images/salad.jpg);
+    color: white;
+    /* text-align: center;     */
+    background-size: cover;
+    background-attachment:fixed;
+    background-repeat: no-repeat;
+    mmargin-top: 90px;
+    display: flex;
+    flex-flow: column;
+    overflow-x: hidden; 
+  }
+  .image {
+    display: block;
+    width: 100%;
+    height: 100%;
+  }
+  h2 , h3 ,label {
+    margin-left: 1%;
+    color: white !important;
+  }
+  #booking {
+    margin-left: 1%;
+    bbackground-image: url(images/istockphoto-1312307362-170667a.jpg);
+    background-size: cover;
+    bbackground-attachment:fixed;
+    background-repeat: no-repeat;
+    
+  }
+  .col-xs-6 {
+      padding-left: 0 !important;
+  }
+  #tel {
+      margin-left: 0;;
+  }
+  .w-50 {
+    height: 35px;
+  }
+  .p{
+    color: white;
+    font-size: 15px;
+  }
+  h2, h3 {
+    color: rgb(255, 115, 0) !important;
+    
+  }
+  #col2 {
+    background-image: url(../images/Book2.avif);
+    background-size: cover;
+    /* background-attachment:fixed; */
+    background-repeat: no-repeat;
+  }
